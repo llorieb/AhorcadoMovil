@@ -55,15 +55,13 @@ Si el idioma del dispositivo no es Español, la aplicación utiliza Inglés como
 
 La aplicación se encuentra finalizada y preparada para su publicación en Google Play.
 
-La página oficial del proyecto está incluida en la carpeta [`docs/`](docs/) y puede publicarse mediante **GitHub Pages**.
+[Página oficial de Ahorcado](https://llorieb.github.io/AhorcadoMovil/)
 
 ## Privacidad
 
 Ahorcado no recopila datos personales, no utiliza cuentas de usuario, publicidad ni servicios de analítica.
 
-La política de privacidad completa está disponible aquí:
-
-[Política de privacidad](docs/privacy-policy.html)
+[Política de privacidad](https://llorieb.github.io/AhorcadoMovil/privacy-policy.html)
 
 ## Desarrollo
 
