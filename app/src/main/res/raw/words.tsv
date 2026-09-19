@@ -1,0 +1,1098 @@
+# id	category	locale	text	aliases
+# Bilingual corpus. English is the universal fallback; Spanish is used for es locales.
+country_001	countries	es	AFGANISTÁN	
+country_002	countries	es	ALBANIA	
+country_003	countries	es	ALEMANIA	
+country_004	countries	es	ANDORRA	
+country_005	countries	es	ANGOLA	
+country_006	countries	es	ANTIGUA Y BARBUDA	
+country_007	countries	es	ARABIA SAUDITA	
+country_008	countries	es	ARGELIA	
+country_009	countries	es	ARGENTINA	
+country_010	countries	es	ARMENIA	
+country_011	countries	es	AUSTRALIA	
+country_012	countries	es	AUSTRIA	
+country_013	countries	es	AZERBAIYÁN	
+country_014	countries	es	BAHAMAS	
+country_015	countries	es	BANGLADÉS	
+country_016	countries	es	BARBADOS	
+country_017	countries	es	BARÉIN	
+country_018	countries	es	BÉLGICA	
+country_019	countries	es	BELICE	
+country_020	countries	es	BENÍN	
+country_021	countries	es	BIELORRUSIA	
+country_022	countries	es	BOLIVIA	
+country_023	countries	es	BOSNIA Y HERZEGOVINA	
+country_024	countries	es	BOTSUANA	
+country_025	countries	es	BRASIL	
+country_026	countries	es	BRUNÉI	
+country_027	countries	es	BULGARIA	
+country_028	countries	es	BURKINA FASO	
+country_029	countries	es	BURUNDI	
+country_030	countries	es	BUTÁN	
+country_031	countries	es	CABO VERDE	
+country_032	countries	es	CAMBOYA	
+country_033	countries	es	CAMERÚN	
+country_034	countries	es	CANADÁ	
+country_035	countries	es	CATAR	
+country_036	countries	es	CHAD	
+country_037	countries	es	CHILE	
+country_038	countries	es	CHINA	
+country_039	countries	es	CHIPRE	
+country_040	countries	es	COLOMBIA	
+country_041	countries	es	COMORAS	
+country_042	countries	es	COREA DEL NORTE	
+country_043	countries	es	COREA DEL SUR	
+country_044	countries	es	COSTA DE MARFIL	
+country_045	countries	es	COSTA RICA	
+country_046	countries	es	CROACIA	
+country_047	countries	es	CUBA	
+country_048	countries	es	DINAMARCA	
+country_049	countries	es	DOMINICA	
+country_050	countries	es	ECUADOR	
+country_051	countries	es	EGIPTO	
+country_052	countries	es	EL SALVADOR	
+country_053	countries	es	EMIRATOS ÁRABES UNIDOS	
+country_054	countries	es	ERITREA	
+country_055	countries	es	ESLOVAQUIA	
+country_056	countries	es	ESLOVENIA	
+country_057	countries	es	ESPAÑA	
+country_058	countries	es	ESTADOS UNIDOS	
+country_059	countries	es	ESTONIA	
+country_060	countries	es	ESUATINI	
+country_061	countries	es	ETIOPÍA	
+country_062	countries	es	FILIPINAS	
+country_063	countries	es	FINLANDIA	
+country_064	countries	es	FIYI	
+country_065	countries	es	FRANCIA	
+country_066	countries	es	GABÓN	
+country_067	countries	es	GAMBIA	
+country_068	countries	es	GEORGIA	
+country_069	countries	es	GHANA	
+country_070	countries	es	GRANADA	
+country_071	countries	es	GRECIA	
+country_072	countries	es	GUATEMALA	
+country_073	countries	es	GUINEA	
+country_074	countries	es	GUINEA BISÁU	
+country_075	countries	es	GUINEA ECUATORIAL	
+country_076	countries	es	GUYANA	
+country_077	countries	es	HAITÍ	
+country_078	countries	es	HONDURAS	
+country_079	countries	es	HUNGRÍA	
+country_080	countries	es	INDIA	
+country_081	countries	es	INDONESIA	
+country_082	countries	es	IRAK	
+country_083	countries	es	IRÁN	
+country_084	countries	es	IRLANDA	
+country_085	countries	es	ISLANDIA	
+country_086	countries	es	ISLAS MARSHALL	
+country_087	countries	es	ISLAS SALOMÓN	
+country_088	countries	es	ISRAEL	
+country_089	countries	es	ITALIA	
+country_090	countries	es	JAMAICA	
+country_091	countries	es	JAPÓN	
+country_092	countries	es	JORDANIA	
+country_093	countries	es	KAZAJISTÁN	
+country_094	countries	es	KENIA	
+country_095	countries	es	KIRGUISTÁN	
+country_096	countries	es	KIRIBATI	
+country_097	countries	es	KUWAIT	
+country_098	countries	es	LAOS	
+country_099	countries	es	LESOTO	
+country_100	countries	es	LETONIA	
+country_101	countries	es	LÍBANO	
+country_102	countries	es	LIBERIA	
+country_103	countries	es	LIBIA	
+country_104	countries	es	LIECHTENSTEIN	
+country_105	countries	es	LITUANIA	
+country_106	countries	es	LUXEMBURGO	
+country_107	countries	es	MACEDONIA DEL NORTE	
+country_108	countries	es	MADAGASCAR	
+country_109	countries	es	MALASIA	
+country_110	countries	es	MALAUI	
+country_111	countries	es	MALDIVAS	
+country_112	countries	es	MALÍ	
+country_113	countries	es	MALTA	
+country_114	countries	es	MARRUECOS	
+country_115	countries	es	MAURICIO	
+country_116	countries	es	MAURITANIA	
+country_117	countries	es	MÉXICO	
+country_118	countries	es	MICRONESIA	
+country_119	countries	es	MOLDAVIA	
+country_120	countries	es	MÓNACO	
+country_121	countries	es	MONGOLIA	
+country_122	countries	es	MONTENEGRO	
+country_123	countries	es	MOZAMBIQUE	
+country_124	countries	es	MYANMAR	
+country_125	countries	es	NAMIBIA	
+country_126	countries	es	NAURU	
+country_127	countries	es	NEPAL	
+country_128	countries	es	NICARAGUA	
+country_129	countries	es	NÍGER	
+country_130	countries	es	NIGERIA	
+country_131	countries	es	NORUEGA	
+country_132	countries	es	NUEVA ZELANDA	
+country_133	countries	es	OMÁN	
+country_134	countries	es	PAÍSES BAJOS	
+country_135	countries	es	PAKISTÁN	
+country_136	countries	es	PALAOS	
+country_137	countries	es	PALESTINA	
+country_138	countries	es	PANAMÁ	
+country_139	countries	es	PAPÚA NUEVA GUINEA	
+country_140	countries	es	PARAGUAY	
+country_141	countries	es	PERÚ	
+country_142	countries	es	POLONIA	
+country_143	countries	es	PORTUGAL	
+country_144	countries	es	REINO UNIDO	
+country_145	countries	es	REPÚBLICA CENTROAFRICANA	
+country_146	countries	es	REPÚBLICA DEL CONGO	
+country_147	countries	es	CONGO DEMOCRÁTICO	
+country_148	countries	es	REPÚBLICA DOMINICANA	
+country_149	countries	es	RUANDA	
+country_150	countries	es	RUMANIA	
+country_151	countries	es	RUSIA	
+country_152	countries	es	SAMOA	
+country_153	countries	es	SAN CRISTÓBAL Y NIEVES	
+country_154	countries	es	SAN MARINO	
+country_155	countries	es	SAN VICENTE Y LAS GRANADINAS	
+country_156	countries	es	SANTA LUCÍA	
+country_157	countries	es	SANTO TOMÉ Y PRÍNCIPE	
+country_158	countries	es	SENEGAL	
+country_159	countries	es	SERBIA	
+country_160	countries	es	SEYCHELLES	
+country_161	countries	es	SIERRA LEONA	
+country_162	countries	es	SINGAPUR	
+country_163	countries	es	SIRIA	
+country_164	countries	es	SOMALIA	
+country_165	countries	es	SRI LANKA	
+country_166	countries	es	SUDÁFRICA	
+country_167	countries	es	SUDÁN	
+country_168	countries	es	SUDÁN DEL SUR	
+country_169	countries	es	SUECIA	
+country_170	countries	es	SUIZA	
+country_171	countries	es	SURINAM	
+country_172	countries	es	TAILANDIA	
+country_173	countries	es	TANZANIA	
+country_174	countries	es	TAYIKISTÁN	
+country_175	countries	es	TIMOR ORIENTAL	
+country_176	countries	es	TOGO	
+country_177	countries	es	TONGA	
+country_178	countries	es	TRINIDAD Y TOBAGO	
+country_179	countries	es	TÚNEZ	
+country_180	countries	es	TURKMENISTÁN	
+country_181	countries	es	TURQUÍA	
+country_182	countries	es	TUVALU	
+country_183	countries	es	UCRANIA	
+country_184	countries	es	UGANDA	
+country_185	countries	es	URUGUAY	
+country_186	countries	es	UZBEKISTÁN	
+country_187	countries	es	VANUATU	
+country_188	countries	es	VATICANO	
+country_189	countries	es	VENEZUELA	
+country_190	countries	es	VIETNAM	
+country_191	countries	es	YEMEN	
+country_192	countries	es	YIBUTI	
+country_193	countries	es	ZAMBIA	
+country_194	countries	es	ZIMBABUE	
+country_195	countries	es	CHEQUIA	
+city_001	cities	es	BUENOS AIRES	
+city_002	cities	es	CÓRDOBA	
+city_003	cities	es	ROSARIO	
+city_004	cities	es	MENDOZA	
+city_005	cities	es	MAR DEL PLATA	
+city_006	cities	es	BARILOCHE	
+city_007	cities	es	MONTEVIDEO	
+city_008	cities	es	SANTIAGO	
+city_009	cities	es	VALPARAÍSO	
+city_010	cities	es	ASUNCIÓN	
+city_011	cities	es	LA PAZ	
+city_012	cities	es	SANTA CRUZ	
+city_013	cities	es	LIMA	
+city_014	cities	es	CUSCO	
+city_015	cities	es	SÃO PAULO	
+city_016	cities	es	RÍO DE JANEIRO	
+city_017	cities	es	BRASILIA	
+city_018	cities	es	SALVADOR	
+city_019	cities	es	PORTO ALEGRE	
+city_020	cities	es	BOGOTÁ	
+city_021	cities	es	MEDELLÍN	
+city_022	cities	es	CARTAGENA	
+city_023	cities	es	CALI	
+city_024	cities	es	QUITO	
+city_025	cities	es	GUAYAQUIL	
+city_026	cities	es	CARACAS	
+city_027	cities	es	CIUDAD DE MÉXICO	
+city_028	cities	es	GUADALAJARA	
+city_029	cities	es	MONTERREY	
+city_030	cities	es	CANCÚN	
+city_031	cities	es	CIUDAD DE PANAMÁ	
+city_032	cities	es	SAN JOSÉ	
+city_033	cities	es	CIUDAD DE GUATEMALA	
+city_034	cities	es	SAN SALVADOR	
+city_035	cities	es	TEGUCIGALPA	
+city_036	cities	es	MANAGUA	
+city_037	cities	es	LA HABANA	
+city_038	cities	es	SANTO DOMINGO	
+city_039	cities	es	SAN JUAN	
+city_040	cities	es	KINGSTON	
+city_041	cities	es	NUEVA YORK	
+city_042	cities	es	LOS ÁNGELES	
+city_043	cities	es	CHICAGO	
+city_044	cities	es	MIAMI	
+city_045	cities	es	BOSTON	
+city_046	cities	es	SAN FRANCISCO	
+city_047	cities	es	LAS VEGAS	
+city_048	cities	es	WASHINGTON	
+city_049	cities	es	SEATTLE	
+city_050	cities	es	NUEVA ORLEANS	
+city_051	cities	es	TORONTO	
+city_052	cities	es	MONTREAL	
+city_053	cities	es	VANCOUVER	
+city_054	cities	es	OTTAWA	
+city_055	cities	es	MADRID	
+city_056	cities	es	BARCELONA	
+city_057	cities	es	SEVILLA	
+city_058	cities	es	VALENCIA	
+city_059	cities	es	BILBAO	
+city_060	cities	es	MÁLAGA	
+city_061	cities	es	LISBOA	
+city_062	cities	es	OPORTO	
+city_063	cities	es	PARÍS	
+city_064	cities	es	LONDRES	
+city_065	cities	es	MANCHESTER	
+city_066	cities	es	LIVERPOOL	
+city_067	cities	es	EDIMBURGO	
+city_068	cities	es	DUBLÍN	
+city_069	cities	es	ROMA	
+city_070	cities	es	MILÁN	
+city_071	cities	es	VENECIA	
+city_072	cities	es	FLORENCIA	
+city_073	cities	es	NÁPOLES	
+city_074	cities	es	TURÍN	
+city_075	cities	es	BERLÍN	
+city_076	cities	es	MÚNICH	
+city_077	cities	es	HAMBURGO	
+city_078	cities	es	FRÁNCFORT	
+city_079	cities	es	COLONIA	
+city_080	cities	es	ÁMSTERDAM	
+city_081	cities	es	BRUSELAS	
+city_082	cities	es	LUXEMBURGO	
+city_083	cities	es	ZÚRICH	
+city_084	cities	es	GINEBRA	
+city_085	cities	es	VIENA	
+city_086	cities	es	PRAGA	
+city_087	cities	es	VARSOVIA	
+city_088	cities	es	CRACOVIA	
+city_089	cities	es	BUDAPEST	
+city_090	cities	es	ATENAS	
+city_091	cities	es	ESTAMBUL	
+city_092	cities	es	COPENHAGUE	
+city_093	cities	es	ESTOCOLMO	
+city_094	cities	es	OSLO	
+city_095	cities	es	HELSINKI	
+city_096	cities	es	REIKIAVIK	
+city_097	cities	es	BELGRADO	
+city_098	cities	es	ZAGREB	
+city_099	cities	es	DUBROVNIK	
+city_100	cities	es	SOFÍA	
+city_101	cities	es	BUCAREST	
+city_102	cities	es	MOSCÚ	
+city_103	cities	es	SAN PETERSBURGO	
+city_104	cities	es	DUBÁI	
+city_105	cities	es	ABU DABI	
+city_106	cities	es	DOHA	
+city_107	cities	es	JERUSALÉN	
+city_108	cities	es	TEL AVIV	
+city_109	cities	es	RIAD	
+city_110	cities	es	TEHERÁN	
+city_111	cities	es	BAGDAD	
+city_112	cities	es	EL CAIRO	
+city_113	cities	es	ALEJANDRÍA	
+city_114	cities	es	CASABLANCA	
+city_115	cities	es	MARRAKECH	
+city_116	cities	es	TÚNEZ	
+city_117	cities	es	ARGEL	
+city_118	cities	es	CIUDAD DEL CABO	
+city_119	cities	es	JOHANNESBURGO	
+city_120	cities	es	NAIROBI	
+city_121	cities	es	ADDIS ABEBA	
+city_122	cities	es	DAKAR	
+city_123	cities	es	LAGOS	
+city_124	cities	es	ACRA	
+city_125	cities	es	TOKIO	
+city_126	cities	es	OSAKA	
+city_127	cities	es	KIOTO	
+city_128	cities	es	SEÚL	
+city_129	cities	es	PEKÍN	
+city_130	cities	es	SHANGHÁI	
+city_131	cities	es	HONG KONG	
+city_132	cities	es	TAIPÉI	
+city_133	cities	es	BANGKOK	
+city_134	cities	es	SINGAPUR	
+city_135	cities	es	KUALA LUMPUR	
+city_136	cities	es	YAKARTA	
+city_137	cities	es	MANILA	
+city_138	cities	es	HANOI	
+city_139	cities	es	HO CHI MINH	
+city_140	cities	es	NUEVA DELHI	
+city_141	cities	es	MUMBAI	
+city_142	cities	es	BANGALORE	
+city_143	cities	es	KATMANDÚ	
+city_144	cities	es	COLOMBO	
+city_145	cities	es	SÍDNEY	
+city_146	cities	es	MELBOURNE	
+city_147	cities	es	BRISBANE	
+city_148	cities	es	PERTH	
+city_149	cities	es	AUCKLAND	
+city_150	cities	es	WELLINGTON	
+car_brand_001	car_brands	es	ABARTH	
+car_brand_002	car_brands	es	ALFA ROMEO	
+car_brand_003	car_brands	es	ALPINE	
+car_brand_004	car_brands	es	ASTON MARTIN	
+car_brand_005	car_brands	es	AUDI	
+car_brand_006	car_brands	es	BENTLEY	
+car_brand_007	car_brands	es	BMW	
+car_brand_008	car_brands	es	BUICK	
+car_brand_009	car_brands	es	BYD	
+car_brand_010	car_brands	es	CADILLAC	
+car_brand_011	car_brands	es	CHEVROLET	
+car_brand_012	car_brands	es	CHRYSLER	
+car_brand_013	car_brands	es	CITROËN	
+car_brand_014	car_brands	es	CUPRA	
+car_brand_015	car_brands	es	DACIA	
+car_brand_016	car_brands	es	DAIHATSU	
+car_brand_017	car_brands	es	DODGE	
+car_brand_018	car_brands	es	FERRARI	
+car_brand_019	car_brands	es	FIAT	
+car_brand_020	car_brands	es	FORD	
+car_brand_021	car_brands	es	GENESIS	
+car_brand_022	car_brands	es	GMC	
+car_brand_023	car_brands	es	HONDA	
+car_brand_024	car_brands	es	HUMMER	
+car_brand_025	car_brands	es	HYUNDAI	
+car_brand_026	car_brands	es	INFINITI	
+car_brand_027	car_brands	es	ISUZU	
+car_brand_028	car_brands	es	JAGUAR	
+car_brand_029	car_brands	es	JEEP	
+car_brand_030	car_brands	es	KIA	
+car_brand_031	car_brands	es	LAMBORGHINI	
+car_brand_032	car_brands	es	LANCIA	
+car_brand_033	car_brands	es	LAND ROVER	
+car_brand_034	car_brands	es	LEXUS	
+car_brand_035	car_brands	es	LINCOLN	
+car_brand_036	car_brands	es	LOTUS	
+car_brand_037	car_brands	es	MASERATI	
+car_brand_038	car_brands	es	MAZDA	
+car_brand_039	car_brands	es	MCLAREN	
+car_brand_040	car_brands	es	MERCEDES-BENZ	
+car_brand_041	car_brands	es	MINI	
+car_brand_042	car_brands	es	MITSUBISHI	
+car_brand_043	car_brands	es	NISSAN	
+car_brand_044	car_brands	es	OPEL	
+car_brand_045	car_brands	es	PAGANI	
+car_brand_046	car_brands	es	PEUGEOT	
+car_brand_047	car_brands	es	POLESTAR	
+car_brand_048	car_brands	es	PONTIAC	
+car_brand_049	car_brands	es	PORSCHE	
+car_brand_050	car_brands	es	RAM	
+car_brand_051	car_brands	es	RENAULT	
+car_brand_052	car_brands	es	ROLLS-ROYCE	
+car_brand_053	car_brands	es	SAAB	
+car_brand_054	car_brands	es	SEAT	
+car_brand_055	car_brands	es	ŠKODA	
+car_brand_056	car_brands	es	SMART	
+car_brand_057	car_brands	es	SUBARU	
+car_brand_058	car_brands	es	SUZUKI	
+car_brand_059	car_brands	es	TESLA	
+car_brand_060	car_brands	es	TOYOTA	
+car_brand_061	car_brands	es	VOLKSWAGEN	
+car_brand_062	car_brands	es	VOLVO	
+rock_band_001	rock_bands	es	THE BEATLES	
+rock_band_002	rock_bands	es	THE ROLLING STONES	
+rock_band_003	rock_bands	es	LED ZEPPELIN	
+rock_band_004	rock_bands	es	PINK FLOYD	
+rock_band_005	rock_bands	es	QUEEN	
+rock_band_006	rock_bands	es	THE WHO	
+rock_band_007	rock_bands	es	THE DOORS	
+rock_band_008	rock_bands	es	DEEP PURPLE	
+rock_band_009	rock_bands	es	BLACK SABBATH	
+rock_band_010	rock_bands	es	AEROSMITH	
+rock_band_011	rock_bands	es	KISS	
+rock_band_012	rock_bands	es	AC/DC	
+rock_band_013	rock_bands	es	FLEETWOOD MAC	
+rock_band_014	rock_bands	es	EAGLES	
+rock_band_015	rock_bands	es	DIRE STRAITS	
+rock_band_016	rock_bands	es	GENESIS	
+rock_band_017	rock_bands	es	YES	
+rock_band_018	rock_bands	es	RUSH	
+rock_band_019	rock_bands	es	JOURNEY	
+rock_band_020	rock_bands	es	FOREIGNER	
+rock_band_021	rock_bands	es	BOSTON	
+rock_band_022	rock_bands	es	TOTO	
+rock_band_023	rock_bands	es	SUPERTRAMP	
+rock_band_024	rock_bands	es	ELECTRIC LIGHT ORCHESTRA	
+rock_band_025	rock_bands	es	LYNYRD SKYNYRD	
+rock_band_026	rock_bands	es	ZZ TOP	
+rock_band_027	rock_bands	es	VAN HALEN	
+rock_band_028	rock_bands	es	DEF LEPPARD	
+rock_band_029	rock_bands	es	BON JOVI	
+rock_band_030	rock_bands	es	GUNS N' ROSES	
+rock_band_031	rock_bands	es	METALLICA	
+rock_band_032	rock_bands	es	IRON MAIDEN	
+rock_band_033	rock_bands	es	JUDAS PRIEST	
+rock_band_034	rock_bands	es	SCORPIONS	
+rock_band_035	rock_bands	es	MOTÖRHEAD	
+rock_band_036	rock_bands	es	MEGADETH	
+rock_band_037	rock_bands	es	SLAYER	
+rock_band_038	rock_bands	es	ANTHRAX	
+rock_band_039	rock_bands	es	PANTERA	
+rock_band_040	rock_bands	es	SEPULTURA	
+rock_band_041	rock_bands	es	DREAM THEATER	
+rock_band_042	rock_bands	es	EUROPE	
+rock_band_043	rock_bands	es	WHITESNAKE	
+rock_band_044	rock_bands	es	MÖTLEY CRÜE	
+rock_band_045	rock_bands	es	POISON	
+rock_band_046	rock_bands	es	TWISTED SISTER	
+rock_band_047	rock_bands	es	SKID ROW	
+rock_band_048	rock_bands	es	ALICE IN CHAINS	
+rock_band_049	rock_bands	es	SOUNDGARDEN	
+rock_band_050	rock_bands	es	PEARL JAM	
+rock_band_051	rock_bands	es	NIRVANA	
+rock_band_052	rock_bands	es	FOO FIGHTERS	
+rock_band_053	rock_bands	es	STONE TEMPLE PILOTS	
+rock_band_054	rock_bands	es	RED HOT CHILI PEPPERS	
+rock_band_055	rock_bands	es	THE SMASHING PUMPKINS	
+rock_band_056	rock_bands	es	RADIOHEAD	
+rock_band_057	rock_bands	es	OASIS	
+rock_band_058	rock_bands	es	BLUR	
+rock_band_059	rock_bands	es	PULP	
+rock_band_060	rock_bands	es	THE VERVE	
+rock_band_061	rock_bands	es	MUSE	
+rock_band_062	rock_bands	es	COLDPLAY	
+rock_band_063	rock_bands	es	ARCTIC MONKEYS	
+rock_band_064	rock_bands	es	THE STROKES	
+rock_band_065	rock_bands	es	THE KILLERS	
+rock_band_066	rock_bands	es	KINGS OF LEON	
+rock_band_067	rock_bands	es	FRANZ FERDINAND	
+rock_band_068	rock_bands	es	LINKIN PARK	
+rock_band_069	rock_bands	es	GREEN DAY	
+rock_band_070	rock_bands	es	THE OFFSPRING	
+rock_band_071	rock_bands	es	BLINK 182	
+rock_band_072	rock_bands	es	SUM 41	
+rock_band_073	rock_bands	es	PARAMORE	
+rock_band_074	rock_bands	es	EVANESCENCE	
+rock_band_075	rock_bands	es	GARBAGE	
+rock_band_076	rock_bands	es	NO DOUBT	
+rock_band_077	rock_bands	es	WEEZER	
+rock_band_078	rock_bands	es	R.E.M.	
+rock_band_079	rock_bands	es	U2	
+rock_band_080	rock_bands	es	THE CURE	
+rock_band_081	rock_bands	es	DEPECHE MODE	
+rock_band_082	rock_bands	es	NEW ORDER	
+rock_band_083	rock_bands	es	JOY DIVISION	
+rock_band_084	rock_bands	es	THE SMITHS	
+rock_band_085	rock_bands	es	TALKING HEADS	
+rock_band_086	rock_bands	es	BLONDIE	
+rock_band_087	rock_bands	es	RAMONES	
+rock_band_088	rock_bands	es	THE CLASH	
+rock_band_089	rock_bands	es	SEX PISTOLS	
+rock_band_090	rock_bands	es	DEAD KENNEDYS	
+rock_band_091	rock_bands	es	PIXIES	
+rock_band_092	rock_bands	es	SONIC YOUTH	
+rock_band_093	rock_bands	es	JANE'S ADDICTION	
+rock_band_094	rock_bands	es	RAGE AGAINST THE MACHINE	
+rock_band_095	rock_bands	es	SYSTEM OF A DOWN	
+rock_band_096	rock_bands	es	KORN	
+rock_band_097	rock_bands	es	LIMP BIZKIT	
+rock_band_098	rock_bands	es	SLIPKNOT	
+rock_band_099	rock_bands	es	TOOL	
+rock_band_100	rock_bands	es	NINE INCH NAILS	
+rock_band_101	rock_bands	es	FAITH NO MORE	
+rock_band_102	rock_bands	es	PRIMUS	
+rock_band_103	rock_bands	es	THE BLACK KEYS	
+rock_band_104	rock_bands	es	THE WHITE STRIPES	
+rock_band_105	rock_bands	es	PLACEBO	
+rock_band_106	rock_bands	es	INTERPOL	
+rock_band_107	rock_bands	es	THE CRANBERRIES	
+rock_band_108	rock_bands	es	THE POLICE	
+rock_band_109	rock_bands	es	SODA STEREO	
+rock_band_110	rock_bands	es	VIRUS	
+rock_band_111	rock_bands	es	SUMO	
+rock_band_112	rock_bands	es	LOS REDONDOS	
+rock_band_113	rock_bands	es	DIVIDIDOS	
+rock_band_114	rock_bands	es	LAS PELOTAS	
+rock_band_115	rock_bands	es	BABASÓNICOS	
+rock_band_116	rock_bands	es	LOS PIOJOS	
+rock_band_117	rock_bands	es	LA RENGA	
+rock_band_118	rock_bands	es	BERSUIT VERGARABAT	
+rock_band_119	rock_bands	es	CATUPECU MACHU	
+rock_band_120	rock_bands	es	LOS FABULOSOS CADILLACS	
+rock_band_121	rock_bands	es	ENANITOS VERDES	
+rock_band_122	rock_bands	es	RATA BLANCA	
+rock_band_123	rock_bands	es	AIRBAG	
+rock_band_124	rock_bands	es	HÉROES DEL SILENCIO	
+rock_band_125	rock_bands	es	EXTREMODURO	
+rock_band_126	rock_bands	es	MAGO DE OZ	
+rock_band_127	rock_bands	es	BARÓN ROJO	
+rock_band_128	rock_bands	es	LOS RODRÍGUEZ	
+rock_band_129	rock_bands	es	DUNCAN DHU	
+rock_band_130	rock_bands	es	MANÁ	
+rock_band_131	rock_bands	es	CAFÉ TACVBA	
+rock_band_132	rock_bands	es	MOLOTOV	
+rock_band_133	rock_bands	es	ATERCIOPELADOS	
+rock_band_134	rock_bands	es	LOS PRISIONEROS	
+rock_band_135	rock_bands	es	LOS BUNKERS	
+rock_band_136	rock_bands	es	LA LEY	
+rock_band_137	rock_bands	es	ZOÉ	
+rock_band_138	rock_bands	es	CAIFANES	
+rock_band_139	rock_bands	es	LOS TRES	
+rock_band_140	rock_bands	es	LEGIÃO URBANA	
+rock_band_141	rock_bands	es	TITÃS	
+country_001	countries	en	AFGHANISTAN	
+country_002	countries	en	ALBANIA	
+country_003	countries	en	GERMANY	
+country_004	countries	en	ANDORRA	
+country_005	countries	en	ANGOLA	
+country_006	countries	en	ANTIGUA AND BARBUDA	
+country_007	countries	en	SAUDI ARABIA	
+country_008	countries	en	ALGERIA	
+country_009	countries	en	ARGENTINA	
+country_010	countries	en	ARMENIA	
+country_011	countries	en	AUSTRALIA	
+country_012	countries	en	AUSTRIA	
+country_013	countries	en	AZERBAIJAN	
+country_014	countries	en	BAHAMAS	
+country_015	countries	en	BANGLADESH	
+country_016	countries	en	BARBADOS	
+country_017	countries	en	BAHRAIN	
+country_018	countries	en	BELGIUM	
+country_019	countries	en	BELIZE	
+country_020	countries	en	BENIN	
+country_021	countries	en	BELARUS	
+country_022	countries	en	BOLIVIA	
+country_023	countries	en	BOSNIA AND HERZEGOVINA	
+country_024	countries	en	BOTSWANA	
+country_025	countries	en	BRAZIL	
+country_026	countries	en	BRUNEI	
+country_027	countries	en	BULGARIA	
+country_028	countries	en	BURKINA FASO	
+country_029	countries	en	BURUNDI	
+country_030	countries	en	BHUTAN	
+country_031	countries	en	CAPE VERDE	
+country_032	countries	en	CAMBODIA	
+country_033	countries	en	CAMEROON	
+country_034	countries	en	CANADA	
+country_035	countries	en	QATAR	
+country_036	countries	en	CHAD	
+country_037	countries	en	CHILE	
+country_038	countries	en	CHINA	
+country_039	countries	en	CYPRUS	
+country_040	countries	en	COLOMBIA	
+country_041	countries	en	COMOROS	
+country_042	countries	en	NORTH KOREA	
+country_043	countries	en	SOUTH KOREA	
+country_044	countries	en	IVORY COAST	
+country_045	countries	en	COSTA RICA	
+country_046	countries	en	CROATIA	
+country_047	countries	en	CUBA	
+country_048	countries	en	DENMARK	
+country_049	countries	en	DOMINICA	
+country_050	countries	en	ECUADOR	
+country_051	countries	en	EGYPT	
+country_052	countries	en	EL SALVADOR	
+country_053	countries	en	UNITED ARAB EMIRATES	
+country_054	countries	en	ERITREA	
+country_055	countries	en	SLOVAKIA	
+country_056	countries	en	SLOVENIA	
+country_057	countries	en	SPAIN	
+country_058	countries	en	UNITED STATES	
+country_059	countries	en	ESTONIA	
+country_060	countries	en	ESWATINI	
+country_061	countries	en	ETHIOPIA	
+country_062	countries	en	PHILIPPINES	
+country_063	countries	en	FINLAND	
+country_064	countries	en	FIJI	
+country_065	countries	en	FRANCE	
+country_066	countries	en	GABON	
+country_067	countries	en	GAMBIA	
+country_068	countries	en	GEORGIA	
+country_069	countries	en	GHANA	
+country_070	countries	en	GRENADA	
+country_071	countries	en	GREECE	
+country_072	countries	en	GUATEMALA	
+country_073	countries	en	GUINEA	
+country_074	countries	en	GUINEA-BISSAU	
+country_075	countries	en	EQUATORIAL GUINEA	
+country_076	countries	en	GUYANA	
+country_077	countries	en	HAITI	
+country_078	countries	en	HONDURAS	
+country_079	countries	en	HUNGARY	
+country_080	countries	en	INDIA	
+country_081	countries	en	INDONESIA	
+country_082	countries	en	IRAQ	
+country_083	countries	en	IRAN	
+country_084	countries	en	IRELAND	
+country_085	countries	en	ICELAND	
+country_086	countries	en	MARSHALL ISLANDS	
+country_087	countries	en	SOLOMON ISLANDS	
+country_088	countries	en	ISRAEL	
+country_089	countries	en	ITALY	
+country_090	countries	en	JAMAICA	
+country_091	countries	en	JAPAN	
+country_092	countries	en	JORDAN	
+country_093	countries	en	KAZAKHSTAN	
+country_094	countries	en	KENYA	
+country_095	countries	en	KYRGYZSTAN	
+country_096	countries	en	KIRIBATI	
+country_097	countries	en	KUWAIT	
+country_098	countries	en	LAOS	
+country_099	countries	en	LESOTHO	
+country_100	countries	en	LATVIA	
+country_101	countries	en	LEBANON	
+country_102	countries	en	LIBERIA	
+country_103	countries	en	LIBYA	
+country_104	countries	en	LIECHTENSTEIN	
+country_105	countries	en	LITHUANIA	
+country_106	countries	en	LUXEMBOURG	
+country_107	countries	en	NORTH MACEDONIA	
+country_108	countries	en	MADAGASCAR	
+country_109	countries	en	MALAYSIA	
+country_110	countries	en	MALAWI	
+country_111	countries	en	MALDIVES	
+country_112	countries	en	MALI	
+country_113	countries	en	MALTA	
+country_114	countries	en	MOROCCO	
+country_115	countries	en	MAURITIUS	
+country_116	countries	en	MAURITANIA	
+country_117	countries	en	MEXICO	
+country_118	countries	en	MICRONESIA	
+country_119	countries	en	MOLDOVA	
+country_120	countries	en	MONACO	
+country_121	countries	en	MONGOLIA	
+country_122	countries	en	MONTENEGRO	
+country_123	countries	en	MOZAMBIQUE	
+country_124	countries	en	MYANMAR	
+country_125	countries	en	NAMIBIA	
+country_126	countries	en	NAURU	
+country_127	countries	en	NEPAL	
+country_128	countries	en	NICARAGUA	
+country_129	countries	en	NIGER	
+country_130	countries	en	NIGERIA	
+country_131	countries	en	NORWAY	
+country_132	countries	en	NEW ZEALAND	
+country_133	countries	en	OMAN	
+country_134	countries	en	NETHERLANDS	
+country_135	countries	en	PAKISTAN	
+country_136	countries	en	PALAU	
+country_137	countries	en	PALESTINE	
+country_138	countries	en	PANAMA	
+country_139	countries	en	PAPUA NEW GUINEA	
+country_140	countries	en	PARAGUAY	
+country_141	countries	en	PERU	
+country_142	countries	en	POLAND	
+country_143	countries	en	PORTUGAL	
+country_144	countries	en	UNITED KINGDOM	
+country_145	countries	en	CENTRAL AFRICAN REPUBLIC	
+country_146	countries	en	REPUBLIC OF THE CONGO	
+country_147	countries	en	DEMOCRATIC REPUBLIC OF THE CONGO	
+country_148	countries	en	DOMINICAN REPUBLIC	
+country_149	countries	en	RWANDA	
+country_150	countries	en	ROMANIA	
+country_151	countries	en	RUSSIA	
+country_152	countries	en	SAMOA	
+country_153	countries	en	SAINT KITTS AND NEVIS	
+country_154	countries	en	SAN MARINO	
+country_155	countries	en	SAINT VINCENT AND THE GRENADINES	
+country_156	countries	en	SAINT LUCIA	
+country_157	countries	en	SAO TOME AND PRINCIPE	
+country_158	countries	en	SENEGAL	
+country_159	countries	en	SERBIA	
+country_160	countries	en	SEYCHELLES	
+country_161	countries	en	SIERRA LEONE	
+country_162	countries	en	SINGAPORE	
+country_163	countries	en	SYRIA	
+country_164	countries	en	SOMALIA	
+country_165	countries	en	SRI LANKA	
+country_166	countries	en	SOUTH AFRICA	
+country_167	countries	en	SUDAN	
+country_168	countries	en	SOUTH SUDAN	
+country_169	countries	en	SWEDEN	
+country_170	countries	en	SWITZERLAND	
+country_171	countries	en	SURINAME	
+country_172	countries	en	THAILAND	
+country_173	countries	en	TANZANIA	
+country_174	countries	en	TAJIKISTAN	
+country_175	countries	en	EAST TIMOR	
+country_176	countries	en	TOGO	
+country_177	countries	en	TONGA	
+country_178	countries	en	TRINIDAD AND TOBAGO	
+country_179	countries	en	TUNISIA	
+country_180	countries	en	TURKMENISTAN	
+country_181	countries	en	TURKEY	
+country_182	countries	en	TUVALU	
+country_183	countries	en	UKRAINE	
+country_184	countries	en	UGANDA	
+country_185	countries	en	URUGUAY	
+country_186	countries	en	UZBEKISTAN	
+country_187	countries	en	VANUATU	
+country_188	countries	en	VATICAN CITY	
+country_189	countries	en	VENEZUELA	
+country_190	countries	en	VIETNAM	
+country_191	countries	en	YEMEN	
+country_192	countries	en	DJIBOUTI	
+country_193	countries	en	ZAMBIA	
+country_194	countries	en	ZIMBABWE	
+country_195	countries	en	CZECHIA	
+city_001	cities	en	BUENOS AIRES	
+city_002	cities	en	CORDOBA	
+city_003	cities	en	ROSARIO	
+city_004	cities	en	MENDOZA	
+city_005	cities	en	MAR DEL PLATA	
+city_006	cities	en	BARILOCHE	
+city_007	cities	en	MONTEVIDEO	
+city_008	cities	en	SANTIAGO	
+city_009	cities	en	VALPARAISO	
+city_010	cities	en	ASUNCION	
+city_011	cities	en	LA PAZ	
+city_012	cities	en	SANTA CRUZ	
+city_013	cities	en	LIMA	
+city_014	cities	en	CUSCO	
+city_015	cities	en	SÃO PAULO	
+city_016	cities	en	RIO DE JANEIRO	
+city_017	cities	en	BRASILIA	
+city_018	cities	en	SALVADOR	
+city_019	cities	en	PORTO ALEGRE	
+city_020	cities	en	BOGOTA	
+city_021	cities	en	MEDELLIN	
+city_022	cities	en	CARTAGENA	
+city_023	cities	en	CALI	
+city_024	cities	en	QUITO	
+city_025	cities	en	GUAYAQUIL	
+city_026	cities	en	CARACAS	
+city_027	cities	en	MEXICO CITY	
+city_028	cities	en	GUADALAJARA	
+city_029	cities	en	MONTERREY	
+city_030	cities	en	CANCUN	
+city_031	cities	en	PANAMA CITY	
+city_032	cities	en	SAN JOSE	
+city_033	cities	en	GUATEMALA CITY	
+city_034	cities	en	SAN SALVADOR	
+city_035	cities	en	TEGUCIGALPA	
+city_036	cities	en	MANAGUA	
+city_037	cities	en	HAVANA	
+city_038	cities	en	SANTO DOMINGO	
+city_039	cities	en	SAN JUAN	
+city_040	cities	en	KINGSTON	
+city_041	cities	en	NEW YORK	
+city_042	cities	en	LOS ANGELES	
+city_043	cities	en	CHICAGO	
+city_044	cities	en	MIAMI	
+city_045	cities	en	BOSTON	
+city_046	cities	en	SAN FRANCISCO	
+city_047	cities	en	LAS VEGAS	
+city_048	cities	en	WASHINGTON	
+city_049	cities	en	SEATTLE	
+city_050	cities	en	NEW ORLEANS	
+city_051	cities	en	TORONTO	
+city_052	cities	en	MONTREAL	
+city_053	cities	en	VANCOUVER	
+city_054	cities	en	OTTAWA	
+city_055	cities	en	MADRID	
+city_056	cities	en	BARCELONA	
+city_057	cities	en	SEVILLE	
+city_058	cities	en	VALENCIA	
+city_059	cities	en	BILBAO	
+city_060	cities	en	MALAGA	
+city_061	cities	en	LISBON	
+city_062	cities	en	PORTO	
+city_063	cities	en	PARIS	
+city_064	cities	en	LONDON	
+city_065	cities	en	MANCHESTER	
+city_066	cities	en	LIVERPOOL	
+city_067	cities	en	EDINBURGH	
+city_068	cities	en	DUBLIN	
+city_069	cities	en	ROME	
+city_070	cities	en	MILAN	
+city_071	cities	en	VENICE	
+city_072	cities	en	FLORENCE	
+city_073	cities	en	NAPLES	
+city_074	cities	en	TURIN	
+city_075	cities	en	BERLIN	
+city_076	cities	en	MUNICH	
+city_077	cities	en	HAMBURG	
+city_078	cities	en	FRANKFURT	
+city_079	cities	en	COLOGNE	
+city_080	cities	en	AMSTERDAM	
+city_081	cities	en	BRUSSELS	
+city_082	cities	en	LUXEMBOURG	
+city_083	cities	en	ZURICH	
+city_084	cities	en	GENEVA	
+city_085	cities	en	VIENNA	
+city_086	cities	en	PRAGUE	
+city_087	cities	en	WARSAW	
+city_088	cities	en	KRAKOW	
+city_089	cities	en	BUDAPEST	
+city_090	cities	en	ATHENS	
+city_091	cities	en	ISTANBUL	
+city_092	cities	en	COPENHAGEN	
+city_093	cities	en	STOCKHOLM	
+city_094	cities	en	OSLO	
+city_095	cities	en	HELSINKI	
+city_096	cities	en	REYKJAVIK	
+city_097	cities	en	BELGRADE	
+city_098	cities	en	ZAGREB	
+city_099	cities	en	DUBROVNIK	
+city_100	cities	en	SOFIA	
+city_101	cities	en	BUCHAREST	
+city_102	cities	en	MOSCOW	
+city_103	cities	en	SAINT PETERSBURG	
+city_104	cities	en	DUBAI	
+city_105	cities	en	ABU DHABI	
+city_106	cities	en	DOHA	
+city_107	cities	en	JERUSALEM	
+city_108	cities	en	TEL AVIV	
+city_109	cities	en	RIYADH	
+city_110	cities	en	TEHRAN	
+city_111	cities	en	BAGHDAD	
+city_112	cities	en	CAIRO	
+city_113	cities	en	ALEXANDRIA	
+city_114	cities	en	CASABLANCA	
+city_115	cities	en	MARRAKECH	
+city_116	cities	en	TUNIS	
+city_117	cities	en	ALGIERS	
+city_118	cities	en	CAPE TOWN	
+city_119	cities	en	JOHANNESBURG	
+city_120	cities	en	NAIROBI	
+city_121	cities	en	ADDIS ABABA	
+city_122	cities	en	DAKAR	
+city_123	cities	en	LAGOS	
+city_124	cities	en	ACCRA	
+city_125	cities	en	TOKYO	
+city_126	cities	en	OSAKA	
+city_127	cities	en	KYOTO	
+city_128	cities	en	SEOUL	
+city_129	cities	en	BEIJING	
+city_130	cities	en	SHANGHAI	
+city_131	cities	en	HONG KONG	
+city_132	cities	en	TAIPEI	
+city_133	cities	en	BANGKOK	
+city_134	cities	en	SINGAPORE	
+city_135	cities	en	KUALA LUMPUR	
+city_136	cities	en	JAKARTA	
+city_137	cities	en	MANILA	
+city_138	cities	en	HANOI	
+city_139	cities	en	HO CHI MINH	
+city_140	cities	en	NEW DELHI	
+city_141	cities	en	MUMBAI	
+city_142	cities	en	BANGALORE	
+city_143	cities	en	KATHMANDU	
+city_144	cities	en	COLOMBO	
+city_145	cities	en	SYDNEY	
+city_146	cities	en	MELBOURNE	
+city_147	cities	en	BRISBANE	
+city_148	cities	en	PERTH	
+city_149	cities	en	AUCKLAND	
+city_150	cities	en	WELLINGTON	
+car_brand_001	car_brands	en	ABARTH	
+car_brand_002	car_brands	en	ALFA ROMEO	
+car_brand_003	car_brands	en	ALPINE	
+car_brand_004	car_brands	en	ASTON MARTIN	
+car_brand_005	car_brands	en	AUDI	
+car_brand_006	car_brands	en	BENTLEY	
+car_brand_007	car_brands	en	BMW	
+car_brand_008	car_brands	en	BUICK	
+car_brand_009	car_brands	en	BYD	
+car_brand_010	car_brands	en	CADILLAC	
+car_brand_011	car_brands	en	CHEVROLET	
+car_brand_012	car_brands	en	CHRYSLER	
+car_brand_013	car_brands	en	CITROËN	
+car_brand_014	car_brands	en	CUPRA	
+car_brand_015	car_brands	en	DACIA	
+car_brand_016	car_brands	en	DAIHATSU	
+car_brand_017	car_brands	en	DODGE	
+car_brand_018	car_brands	en	FERRARI	
+car_brand_019	car_brands	en	FIAT	
+car_brand_020	car_brands	en	FORD	
+car_brand_021	car_brands	en	GENESIS	
+car_brand_022	car_brands	en	GMC	
+car_brand_023	car_brands	en	HONDA	
+car_brand_024	car_brands	en	HUMMER	
+car_brand_025	car_brands	en	HYUNDAI	
+car_brand_026	car_brands	en	INFINITI	
+car_brand_027	car_brands	en	ISUZU	
+car_brand_028	car_brands	en	JAGUAR	
+car_brand_029	car_brands	en	JEEP	
+car_brand_030	car_brands	en	KIA	
+car_brand_031	car_brands	en	LAMBORGHINI	
+car_brand_032	car_brands	en	LANCIA	
+car_brand_033	car_brands	en	LAND ROVER	
+car_brand_034	car_brands	en	LEXUS	
+car_brand_035	car_brands	en	LINCOLN	
+car_brand_036	car_brands	en	LOTUS	
+car_brand_037	car_brands	en	MASERATI	
+car_brand_038	car_brands	en	MAZDA	
+car_brand_039	car_brands	en	MCLAREN	
+car_brand_040	car_brands	en	MERCEDES-BENZ	
+car_brand_041	car_brands	en	MINI	
+car_brand_042	car_brands	en	MITSUBISHI	
+car_brand_043	car_brands	en	NISSAN	
+car_brand_044	car_brands	en	OPEL	
+car_brand_045	car_brands	en	PAGANI	
+car_brand_046	car_brands	en	PEUGEOT	
+car_brand_047	car_brands	en	POLESTAR	
+car_brand_048	car_brands	en	PONTIAC	
+car_brand_049	car_brands	en	PORSCHE	
+car_brand_050	car_brands	en	RAM	
+car_brand_051	car_brands	en	RENAULT	
+car_brand_052	car_brands	en	ROLLS-ROYCE	
+car_brand_053	car_brands	en	SAAB	
+car_brand_054	car_brands	en	SEAT	
+car_brand_055	car_brands	en	ŠKODA	
+car_brand_056	car_brands	en	SMART	
+car_brand_057	car_brands	en	SUBARU	
+car_brand_058	car_brands	en	SUZUKI	
+car_brand_059	car_brands	en	TESLA	
+car_brand_060	car_brands	en	TOYOTA	
+car_brand_061	car_brands	en	VOLKSWAGEN	
+car_brand_062	car_brands	en	VOLVO	
+rock_band_001	rock_bands	en	THE BEATLES	
+rock_band_002	rock_bands	en	THE ROLLING STONES	
+rock_band_003	rock_bands	en	LED ZEPPELIN	
+rock_band_004	rock_bands	en	PINK FLOYD	
+rock_band_005	rock_bands	en	QUEEN	
+rock_band_006	rock_bands	en	THE WHO	
+rock_band_007	rock_bands	en	THE DOORS	
+rock_band_008	rock_bands	en	DEEP PURPLE	
+rock_band_009	rock_bands	en	BLACK SABBATH	
+rock_band_010	rock_bands	en	AEROSMITH	
+rock_band_011	rock_bands	en	KISS	
+rock_band_012	rock_bands	en	AC/DC	
+rock_band_013	rock_bands	en	FLEETWOOD MAC	
+rock_band_014	rock_bands	en	EAGLES	
+rock_band_015	rock_bands	en	DIRE STRAITS	
+rock_band_016	rock_bands	en	GENESIS	
+rock_band_017	rock_bands	en	YES	
+rock_band_018	rock_bands	en	RUSH	
+rock_band_019	rock_bands	en	JOURNEY	
+rock_band_020	rock_bands	en	FOREIGNER	
+rock_band_021	rock_bands	en	BOSTON	
+rock_band_022	rock_bands	en	TOTO	
+rock_band_023	rock_bands	en	SUPERTRAMP	
+rock_band_024	rock_bands	en	ELECTRIC LIGHT ORCHESTRA	
+rock_band_025	rock_bands	en	LYNYRD SKYNYRD	
+rock_band_026	rock_bands	en	ZZ TOP	
+rock_band_027	rock_bands	en	VAN HALEN	
+rock_band_028	rock_bands	en	DEF LEPPARD	
+rock_band_029	rock_bands	en	BON JOVI	
+rock_band_030	rock_bands	en	GUNS N' ROSES	
+rock_band_031	rock_bands	en	METALLICA	
+rock_band_032	rock_bands	en	IRON MAIDEN	
+rock_band_033	rock_bands	en	JUDAS PRIEST	
+rock_band_034	rock_bands	en	SCORPIONS	
+rock_band_035	rock_bands	en	MOTÖRHEAD	
+rock_band_036	rock_bands	en	MEGADETH	
+rock_band_037	rock_bands	en	SLAYER	
+rock_band_038	rock_bands	en	ANTHRAX	
+rock_band_039	rock_bands	en	PANTERA	
+rock_band_040	rock_bands	en	SEPULTURA	
+rock_band_041	rock_bands	en	DREAM THEATER	
+rock_band_042	rock_bands	en	EUROPE	
+rock_band_043	rock_bands	en	WHITESNAKE	
+rock_band_044	rock_bands	en	MÖTLEY CRÜE	
+rock_band_045	rock_bands	en	POISON	
+rock_band_046	rock_bands	en	TWISTED SISTER	
+rock_band_047	rock_bands	en	SKID ROW	
+rock_band_048	rock_bands	en	ALICE IN CHAINS	
+rock_band_049	rock_bands	en	SOUNDGARDEN	
+rock_band_050	rock_bands	en	PEARL JAM	
+rock_band_051	rock_bands	en	NIRVANA	
+rock_band_052	rock_bands	en	FOO FIGHTERS	
+rock_band_053	rock_bands	en	STONE TEMPLE PILOTS	
+rock_band_054	rock_bands	en	RED HOT CHILI PEPPERS	
+rock_band_055	rock_bands	en	THE SMASHING PUMPKINS	
+rock_band_056	rock_bands	en	RADIOHEAD	
+rock_band_057	rock_bands	en	OASIS	
+rock_band_058	rock_bands	en	BLUR	
+rock_band_059	rock_bands	en	PULP	
+rock_band_060	rock_bands	en	THE VERVE	
+rock_band_061	rock_bands	en	MUSE	
+rock_band_062	rock_bands	en	COLDPLAY	
+rock_band_063	rock_bands	en	ARCTIC MONKEYS	
+rock_band_064	rock_bands	en	THE STROKES	
+rock_band_065	rock_bands	en	THE KILLERS	
+rock_band_066	rock_bands	en	KINGS OF LEON	
+rock_band_067	rock_bands	en	FRANZ FERDINAND	
+rock_band_068	rock_bands	en	LINKIN PARK	
+rock_band_069	rock_bands	en	GREEN DAY	
+rock_band_070	rock_bands	en	THE OFFSPRING	
+rock_band_071	rock_bands	en	BLINK 182	
+rock_band_072	rock_bands	en	SUM 41	
+rock_band_073	rock_bands	en	PARAMORE	
+rock_band_074	rock_bands	en	EVANESCENCE	
+rock_band_075	rock_bands	en	GARBAGE	
+rock_band_076	rock_bands	en	NO DOUBT	
+rock_band_077	rock_bands	en	WEEZER	
+rock_band_078	rock_bands	en	R.E.M.	
+rock_band_079	rock_bands	en	U2	
+rock_band_080	rock_bands	en	THE CURE	
+rock_band_081	rock_bands	en	DEPECHE MODE	
+rock_band_082	rock_bands	en	NEW ORDER	
+rock_band_083	rock_bands	en	JOY DIVISION	
+rock_band_084	rock_bands	en	THE SMITHS	
+rock_band_085	rock_bands	en	TALKING HEADS	
+rock_band_086	rock_bands	en	BLONDIE	
+rock_band_087	rock_bands	en	RAMONES	
+rock_band_088	rock_bands	en	THE CLASH	
+rock_band_089	rock_bands	en	SEX PISTOLS	
+rock_band_090	rock_bands	en	DEAD KENNEDYS	
+rock_band_091	rock_bands	en	PIXIES	
+rock_band_092	rock_bands	en	SONIC YOUTH	
+rock_band_093	rock_bands	en	JANE'S ADDICTION	
+rock_band_094	rock_bands	en	RAGE AGAINST THE MACHINE	
+rock_band_095	rock_bands	en	SYSTEM OF A DOWN	
+rock_band_096	rock_bands	en	KORN	
+rock_band_097	rock_bands	en	LIMP BIZKIT	
+rock_band_098	rock_bands	en	SLIPKNOT	
+rock_band_099	rock_bands	en	TOOL	
+rock_band_100	rock_bands	en	NINE INCH NAILS	
+rock_band_101	rock_bands	en	FAITH NO MORE	
+rock_band_102	rock_bands	en	PRIMUS	
+rock_band_103	rock_bands	en	THE BLACK KEYS	
+rock_band_104	rock_bands	en	THE WHITE STRIPES	
+rock_band_105	rock_bands	en	PLACEBO	
+rock_band_106	rock_bands	en	INTERPOL	
+rock_band_107	rock_bands	en	THE CRANBERRIES	
+rock_band_108	rock_bands	en	THE POLICE	
+rock_band_109	rock_bands	en	SODA STEREO	
+rock_band_110	rock_bands	en	VIRUS	
+rock_band_111	rock_bands	en	SUMO	
+rock_band_112	rock_bands	en	LOS REDONDOS	
+rock_band_113	rock_bands	en	DIVIDIDOS	
+rock_band_114	rock_bands	en	LAS PELOTAS	
+rock_band_115	rock_bands	en	BABASÓNICOS	
+rock_band_116	rock_bands	en	LOS PIOJOS	
+rock_band_117	rock_bands	en	LA RENGA	
+rock_band_118	rock_bands	en	BERSUIT VERGARABAT	
+rock_band_119	rock_bands	en	CATUPECU MACHU	
+rock_band_120	rock_bands	en	LOS FABULOSOS CADILLACS	
+rock_band_121	rock_bands	en	ENANITOS VERDES	
+rock_band_122	rock_bands	en	RATA BLANCA	
+rock_band_123	rock_bands	en	AIRBAG	
+rock_band_124	rock_bands	en	HÉROES DEL SILENCIO	
+rock_band_125	rock_bands	en	EXTREMODURO	
+rock_band_126	rock_bands	en	MAGO DE OZ	
+rock_band_127	rock_bands	en	BARÓN ROJO	
+rock_band_128	rock_bands	en	LOS RODRÍGUEZ	
+rock_band_129	rock_bands	en	DUNCAN DHU	
+rock_band_130	rock_bands	en	MANÁ	
+rock_band_131	rock_bands	en	CAFÉ TACVBA	
+rock_band_132	rock_bands	en	MOLOTOV	
+rock_band_133	rock_bands	en	ATERCIOPELADOS	
+rock_band_134	rock_bands	en	LOS PRISIONEROS	
+rock_band_135	rock_bands	en	LOS BUNKERS	
+rock_band_136	rock_bands	en	LA LEY	
+rock_band_137	rock_bands	en	ZOÉ	
+rock_band_138	rock_bands	en	CAIFANES	
+rock_band_139	rock_bands	en	LOS TRES	
+rock_band_140	rock_bands	en	LEGIÃO URBANA	
+rock_band_141	rock_bands	en	TITÃS	

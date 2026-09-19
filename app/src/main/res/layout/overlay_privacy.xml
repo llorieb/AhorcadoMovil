@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/overlayCard"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@android:color/transparent"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="12dp"
+    app:strokeColor="#A9CDEC"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_overlay_inner"
+        android:orientation="vertical"
+        android:paddingStart="18dp"
+        android:paddingTop="18dp"
+        android:paddingEnd="18dp"
+        android:paddingBottom="14dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:letterSpacing="0.08"
+            android:text="@string/privacy_label"
+            android:textColor="#6B8EAE"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/privacy_title"
+            android:textColor="#1F2937"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="@string/privacy_last_updated"
+            android:textColor="#64748B"
+            android:textSize="12sp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:fillViewport="false"
+            android:overScrollMode="ifContentScrolls">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingEnd="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_summary_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_summary_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_data_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_data_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_permissions_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_permissions_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_local_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_local_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_third_party_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_third_party_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_children_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_children_body" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_overlay_section"
+                    android:orientation="vertical"
+                    android:padding="12dp">
+                    <TextView style="@style/Text.Ahorcado.HelpTitle" android:text="@string/privacy_contact_title" />
+                    <TextView style="@style/Text.Ahorcado.HelpBody" android:text="@string/privacy_contact_body" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/closePrivacyButton"
+            style="@style/Widget.Ahorcado.Button.OverlayPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="44dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/close"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

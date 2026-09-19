@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_max_width">590dp</dimen>
+    <dimen name="screen_side_margin">18dp</dimen>
+    <dimen name="top_card_height">260dp</dimen>
+    <dimen name="keyboard_key_height">48dp</dimen>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Ahorcado.Button.Primary" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/action_primary_bg</item>
+        <item name="strokeColor">@color/action_primary_border</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">@color/action_primary_text</item>
+        <item name="cornerRadius">9dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="Widget.Ahorcado.Button.Secondary" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="backgroundTint">@color/action_secondary_bg</item>
+        <item name="strokeColor">@color/action_secondary_border</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">@color/action_secondary_text</item>
+        <item name="cornerRadius">9dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="Widget.Ahorcado.Button.OverlayPrimary" parent="Widget.Material3.Button">
+        <item name="backgroundTint">#DCEEFF</item>
+        <item name="strokeColor">#8CC4F2</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">#245B8F</item>
+        <item name="cornerRadius">9dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="Widget.Ahorcado.Button.OverlaySecondary" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="backgroundTint">#FFFFFF</item>
+        <item name="strokeColor">#D8E0E8</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">#475569</item>
+        <item name="cornerRadius">9dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+
+    <style name="Text.Ahorcado" parent="@android:style/Widget.TextView">
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="Text.Ahorcado.HelpTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#245B8F</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Ahorcado.HelpBody">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textColor">#475569</item>
+        <item name="android:textSize">12.5sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+
+</resources>

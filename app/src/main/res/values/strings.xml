@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="game_title">AHORCADO</string>
+    <string name="category_label">Category</string>
+    <string name="category_card_title">CATEGORY</string>
+    <string name="time_label">Time</string>
+    <string name="time_card_title">TIME</string>
+    <string name="start_game">Play</string>
+    <string name="stop_game">Stop</string>
+    <string name="guess_word">Guess</string>
+    <string name="preferences">Settings</string>
+    <string name="ready_message">Tap Play to start</string>
+
+    <string name="category_countries">Countries</string>
+    <string name="category_cities">Cities</string>
+    <string name="category_car_brands">Car brands</string>
+    <string name="category_rock_bands">Rock bands</string>
+
+    <string name="preferences_title">Settings</string>
+    <string name="preferences_description">Choose the category, time and language for each game.</string>
+    <string name="time_per_game">Time per game</string>
+    <string name="language_label">Language</string>
+    <string name="language_automatic">Automatic</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">English</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="guess_title">Guess the answer</string>
+    <string name="guess_symbol">?</string>
+    <string name="guess_hint">Full word or phrase</string>
+    <string name="guess_warning">An incorrect answer ends the game.</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="victory_title">You won!</string>
+    <string name="victory_message">You solved the word correctly.</string>
+    <string name="defeat_title">Game over</string>
+    <string name="defeat_message">You ran out of attempts.</string>
+    <string name="guess_defeat_message">The answer was incorrect.</string>
+    <string name="timeout_title">Time is up!</string>
+    <string name="timeout_message">You ran out of time.</string>
+    <string name="the_word_was">The answer was: %1$s</string>
+    <string name="play_again">Play again</string>
+    <string name="close">Close</string>
+    <string name="game_stopped">Game stopped</string>
+    <string name="corpus_error">Could not load the word list.</string>
+    <string name="word_error">No words are available for this category.</string>
+
+    <string name="seconds_15">15 seconds</string>
+    <string name="seconds_30">30 seconds</string>
+    <string name="seconds_45">45 seconds</string>
+    <string name="seconds_60">60 seconds</string>
+
+    <string name="result_word_intro">The answer was</string>
+    <string name="victory_overlay_title">You guessed it!</string>
+    <string name="timeout_overlay_title">Time is up!</string>
+    <string name="defeat_overlay_title">No attempts left!</string>
+    <string name="wrong_guess_overlay_title">That answer was not correct!</string>
+
+    <string name="more_options">More options</string>
+    <string name="how_to_play">How to play</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="preferences_overlay_label">SETTINGS</string>
+    <string name="help_label">HOW TO PLAY</string>
+    <string name="help_subtitle">Quick game guide</string>
+    <string name="about_label">ABOUT</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_copyright">Ahorcado - Copyright (c) 1996-2026 Mario Borelli</string>
+
+    <string name="exit_label">EXIT</string>
+    <string name="exit_title">Exit Ahorcado?</string>
+    <string name="exit_message">The current game will end and the app will close.</string>
+
+    <string name="help_goal_title">Objective</string>
+    <string name="help_goal_body">Guess the hidden word before you run out of attempts or time.</string>
+    <string name="help_letters_title">Choose letters</string>
+    <string name="help_letters_body">Select a letter on the keyboard. If it appears in the answer, all of its occurrences are revealed and the key turns green. If it does not, the key turns red and the character advances one step.</string>
+    <string name="help_guess_title">Guess the answer</string>
+    <string name="help_guess_body">You can try to solve the full word or phrase at any time with Guess. If you are correct, you win the game. If the answer is incorrect, the game ends.</string>
+    <string name="help_time_title">Time</string>
+    <string name="help_time_body">Each game has a time limit. The default is 30 seconds, and you can choose 15, 30, 45 or 60 seconds in Settings.</string>
+    <string name="help_categories_title">Categories</string>
+    <string name="help_categories_body">In Settings you can play with Countries, Cities, Car brands or Rock bands. Countries is the default category.</string>
+    <string name="help_accents_title">Accents and compound names</string>
+    <string name="help_accents_body">You do not need to type accents to guess correctly. For example, A also reveals Á. Spaces, hyphens, apostrophes and other punctuation are shown automatically. When guessing the full answer, you can omit those signs too.</string>
+    <string name="help_controls_title">Controls</string>
+    <string name="help_controls_body">Play starts a new game. Stop ends the current game. Guess lets you enter the full answer. The gear opens Settings, and Exit is available from the options menu.</string>
+
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_label">PRIVACY POLICY</string>
+    <string name="privacy_title">Privacy policy</string>
+    <string name="privacy_last_updated">Last updated: September 18, 2026</string>
+
+    <string name="privacy_summary_title">Summary</string>
+    <string name="privacy_summary_body">Ahorcado is an offline word game developed by Mario Borelli. The app does not collect, store, transmit or share personal data.</string>
+
+    <string name="privacy_data_title">Data collection</string>
+    <string name="privacy_data_body">Ahorcado does not require an account and does not collect names, email addresses, device identifiers, location, contacts, photos, files, usage analytics or any other personal information.</string>
+
+    <string name="privacy_permissions_title">Permissions and network access</string>
+    <string name="privacy_permissions_body">The app requests no Android permissions and does not request Internet access. Game content is included with the application and works offline.</string>
+
+    <string name="privacy_local_title">Local preferences</string>
+    <string name="privacy_local_body">Settings such as category, game time and language preference may be stored locally on the device. These settings are not transmitted anywhere and are removed when the app data is cleared or the app is uninstalled.</string>
+
+    <string name="privacy_third_party_title">Ads, analytics and third parties</string>
+    <string name="privacy_third_party_body">Ahorcado contains no advertising, analytics, trackers or third-party services that receive user data.</string>
+
+    <string name="privacy_children_title">Children</string>
+    <string name="privacy_children_body">Ahorcado does not collect personal data from any user, including children.</string>
+
+    <string name="privacy_contact_title">Developer and contact</string>
+    <string name="privacy_contact_body">Developer: Mario Borelli\nContact: mborelli@gmail.com</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Ahorcado" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/key_default</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="android:colorAccent">@color/primary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/surface_game</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="Theme.Ahorcado" parent="Base.Theme.Ahorcado" />
+
+    <style name="Theme.Ahorcado.Starting" parent="Theme.Ahorcado">
+        <item name="android:windowBackground">@drawable/splash_screen_legacy</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/surface_game</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+</resources>

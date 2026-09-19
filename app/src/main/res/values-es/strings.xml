@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="game_title">AHORCADO</string>
+    <string name="category_label">Categoría</string>
+    <string name="category_card_title">CATEGORÍA</string>
+    <string name="time_label">Tiempo</string>
+    <string name="time_card_title">TIEMPO</string>
+    <string name="start_game">Jugar</string>
+    <string name="stop_game">Detener</string>
+    <string name="guess_word">Arriesgar</string>
+    <string name="preferences">Preferencias</string>
+    <string name="ready_message">Elegí Jugar para comenzar</string>
+
+    <string name="category_countries">Países</string>
+    <string name="category_cities">Ciudades</string>
+    <string name="category_car_brands">Marcas de autos</string>
+    <string name="category_rock_bands">Bandas de Rock</string>
+
+    <string name="preferences_title">Preferencias</string>
+    <string name="preferences_description">Elegí la categoría, el tiempo y el idioma para cada partida.</string>
+    <string name="time_per_game">Tiempo por partida</string>
+    <string name="language_label">Idioma</string>
+    <string name="language_automatic">Automático</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">English</string>
+
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="guess_title">Arriesgar respuesta</string>
+    <string name="guess_symbol">?</string>
+    <string name="guess_hint">Palabra o frase completa</string>
+    <string name="guess_warning">Una respuesta incorrecta termina la partida.</string>
+    <string name="confirm">Confirmar</string>
+
+    <string name="victory_title">¡Ganaste!</string>
+    <string name="victory_message">Resolviste la palabra correctamente.</string>
+    <string name="defeat_title">Fin de la partida</string>
+    <string name="defeat_message">Se agotaron los intentos.</string>
+    <string name="guess_defeat_message">La respuesta no era correcta.</string>
+    <string name="timeout_title">¡Tiempo!</string>
+    <string name="timeout_message">Se terminó el tiempo disponible.</string>
+    <string name="the_word_was">La respuesta era: %1$s</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="close">Cerrar</string>
+    <string name="game_stopped">Partida detenida</string>
+    <string name="corpus_error">No se pudo cargar la base de palabras.</string>
+    <string name="word_error">No hay palabras disponibles para esta categoría.</string>
+
+    <string name="seconds_15">15 segundos</string>
+    <string name="seconds_30">30 segundos</string>
+    <string name="seconds_45">45 segundos</string>
+    <string name="seconds_60">60 segundos</string>
+
+    <string name="result_word_intro">La palabra era</string>
+    <string name="victory_overlay_title">¡Adivinaste la palabra!</string>
+    <string name="timeout_overlay_title">¡Se acabó el tiempo!</string>
+    <string name="defeat_overlay_title">¡Te quedaste sin intentos!</string>
+    <string name="wrong_guess_overlay_title">¡La respuesta no era correcta!</string>
+
+    <string name="more_options">Más opciones</string>
+    <string name="how_to_play">Cómo jugar</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+
+    <string name="preferences_overlay_label">PREFERENCIAS</string>
+    <string name="help_label">CÓMO JUGAR</string>
+    <string name="help_subtitle">Guía rápida de la partida</string>
+    <string name="about_label">ACERCA DE</string>
+    <string name="about_version">Versión %1$s</string>
+    <string name="about_copyright">Ahorcado - Copyright (c) 1996-2026 Mario Borelli</string>
+
+    <string name="exit_label">SALIR</string>
+    <string name="exit_title">¿Salir de Ahorcado?</string>
+    <string name="exit_message">La partida actual finalizará y la aplicación se cerrará.</string>
+
+    <string name="help_goal_title">Objetivo</string>
+    <string name="help_goal_body">Descubrí la palabra oculta antes de quedarte sin intentos o sin tiempo.</string>
+    <string name="help_letters_title">Elegir letras</string>
+    <string name="help_letters_body">Seleccioná una letra del teclado. Si está en la palabra, se revelan todas sus apariciones y la tecla queda marcada en verde. Si no está, la tecla queda marcada en rojo y el personaje avanza un paso.</string>
+    <string name="help_guess_title">Arriesgar respuesta</string>
+    <string name="help_guess_body">Podés intentar resolver la palabra completa en cualquier momento con Arriesgar. Si acertás, ganás la partida. Si la respuesta es incorrecta, la partida termina.</string>
+    <string name="help_time_title">Tiempo</string>
+    <string name="help_time_body">Cada partida tiene un límite de tiempo. El valor predeterminado es 30 segundos y podés elegir 15, 30, 45 o 60 segundos desde Preferencias.</string>
+    <string name="help_categories_title">Categorías</string>
+    <string name="help_categories_body">Desde Preferencias podés jugar con Países, Ciudades, Marcas de autos o Bandas de Rock. Países es la categoría predeterminada.</string>
+    <string name="help_accents_title">Tildes y nombres compuestos</string>
+    <string name="help_accents_body">No necesitás escribir tildes para acertar. Por ejemplo, A también descubre Á. Los espacios, guiones, apóstrofes y otros signos se muestran automáticamente. Al arriesgar una respuesta completa también podés omitir esos signos.</string>
+    <string name="help_controls_title">Controles</string>
+    <string name="help_controls_body">Jugar inicia una nueva partida. Detener termina la partida actual. Arriesgar permite escribir la respuesta completa. La rueda abre Preferencias y Salir está disponible en el menú de opciones.</string>
+
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="privacy_label">POLÍTICA DE PRIVACIDAD</string>
+    <string name="privacy_title">Política de privacidad</string>
+    <string name="privacy_last_updated">Última actualización: 18 de septiembre de 2026</string>
+
+    <string name="privacy_summary_title">Resumen</string>
+    <string name="privacy_summary_body">Ahorcado es un juego de palabras sin conexión desarrollado por Mario Borelli. La aplicación no recopila, almacena, transmite ni comparte datos personales.</string>
+
+    <string name="privacy_data_title">Recopilación de datos</string>
+    <string name="privacy_data_body">Ahorcado no requiere una cuenta y no recopila nombres, direcciones de correo electrónico, identificadores del dispositivo, ubicación, contactos, fotos, archivos, estadísticas de uso ni ningún otro dato personal.</string>
+
+    <string name="privacy_permissions_title">Permisos y acceso a la red</string>
+    <string name="privacy_permissions_body">La aplicación no solicita permisos de Android ni acceso a Internet. El contenido del juego está incluido en la aplicación y funciona sin conexión.</string>
+
+    <string name="privacy_local_title">Preferencias locales</string>
+    <string name="privacy_local_body">Preferencias como la categoría, el tiempo de juego y el idioma pueden almacenarse localmente en el dispositivo. Esos datos no se transmiten a ningún lugar y se eliminan al borrar los datos de la aplicación o desinstalarla.</string>
+
+    <string name="privacy_third_party_title">Publicidad, analítica y terceros</string>
+    <string name="privacy_third_party_body">Ahorcado no contiene publicidad, analítica, rastreadores ni servicios de terceros que reciban datos del usuario.</string>
+
+    <string name="privacy_children_title">Menores</string>
+    <string name="privacy_children_body">Ahorcado no recopila datos personales de ningún usuario, incluidos los menores.</string>
+
+    <string name="privacy_contact_title">Desarrollador y contacto</string>
+    <string name="privacy_contact_body">Desarrollador: Mario Borelli\nContacto: mborelli@gmail.com</string>
+
+</resources>
